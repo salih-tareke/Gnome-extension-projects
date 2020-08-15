@@ -1,0 +1,6 @@
+{
+    "name": "example3",
+    "uuid": "example3@example3.com",
+    "shell-version": ["3.34"], 
+    "description": "Schema Example"
+}

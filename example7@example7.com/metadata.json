@@ -1,0 +1,6 @@
+{
+    "name": "example7",
+    "uuid": "example7@example7.com",
+    "shell-version": ["3.36"], 
+    "description": "Example for adding elements to the GNOME Shell stage"
+}

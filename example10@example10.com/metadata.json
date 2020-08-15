@@ -1,0 +1,6 @@
+{
+    "name": "example10",
+    "uuid": "example10@example10.com",
+    "shell-version": ["3.36"], 
+    "description": "Key Binding Example"
+}

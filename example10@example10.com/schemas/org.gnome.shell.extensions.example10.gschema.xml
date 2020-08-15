@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+    
+  <schema id="org.gnome.shell.extensions.example10"
+    path="/org/gnome/shell/extensions/example10/">
+    
+    <key type="as" name="my-shortcut">
+      <default><![CDATA[['<Super>g']]]></default>
+      <summary>The shortcut key</summary>
+      <description>
+        You can create GTK entry in prefs and set it as CDATA.
+      </description>
+    </key>
+    
+  </schema>
+  
+</schemalist>
+

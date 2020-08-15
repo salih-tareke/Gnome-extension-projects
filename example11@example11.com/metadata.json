@@ -1,0 +1,6 @@
+{
+    "name": "example11",
+    "uuid": "example11@example11.com",
+    "shell-version": ["3.36"], 
+    "description": "Drag and Drop Example"
+}
