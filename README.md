@@ -2,8 +2,6 @@
 
 This repository contains samples from this [video series](https://www.youtube.com/playlist?list=PLr3kuDAFECjZhW-p56BoVB7SubdUHBVQT).
 
-
-
 - [Part 1-2. Create a Button in Panel / Terminal Commands and Loops](example@example.com)
 - [Part 4. Schema](example3@example3.com)
 - [Part 5. Gettext Translation](example4@example4.com)
@@ -14,3 +12,7 @@ This repository contains samples from this [video series](https://www.youtube.co
 - [Part 12. Animation](example9@example9.com)
 - [Part 13. Key Binding](example10@example10.com)
 - [Part 14. Drag and Drop](example11@example11.com)
+
+## License
+
+All files have been released under The MIT License.
