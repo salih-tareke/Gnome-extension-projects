@@ -25,7 +25,8 @@ const MyPrefsWidget = new GObject.Class({
     builder.set_translation_domain('example6');
     builder.add_from_file(Me.path + '/prefs.ui');
     
-    this.connect("destroy", Gtk.main_quit);
+    // On GNOME SHELL +3.36 you don't need to quit on destroy
+    //this.connect("destroy", Gtk.main_quit);
     
     let SignalHandler = {
     

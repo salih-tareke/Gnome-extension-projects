@@ -23,8 +23,8 @@ const MyPrefsWidget = new GObject.Class({
     this.set_spacing(15);
     this.set_orientation(Gtk.Orientation.VERTICAL);
     
-    // make sure the main window quit when the wrapper box will be destroyed
-    this.connect('destroy', Gtk.main_quit);
+    // On GNOME SHELL +3.36 you don't need to quit on destroy
+    //this.connect('destroy', Gtk.main_quit);
     
     let myLabel = new Gtk.Label({
       label : "Translated Text"    
